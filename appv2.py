@@ -96,7 +96,7 @@ st.markdown("""
 
 st.markdown('<div class="title">Crop Disease Detection</div>', unsafe_allow_html=True)
 st.markdown('<style>.red-label {color: red; font-weight: bold;}</style>', unsafe_allow_html=True)
-st.markdown('<div class="red-label">Diseases Trained on: <br> Brown spots <br> Rice\'s hispa <br> Sheath blight</div>', unsafe_allow_html=True)
+# st.markdown('<div class="red-label">Diseases Trained on: <br> Brown spots <br> Rice\'s hispa <br> Sheath blight</div>', unsafe_allow_html=True)
 st.markdown('<style>.red-label {color: green; font-weight: bold;}</style>', unsafe_allow_html=True)
 st.markdown('<div class="red-label">Select the crop</div>', unsafe_allow_html=True)
 
